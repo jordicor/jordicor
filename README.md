@@ -20,7 +20,7 @@ I'm the solo founder and developer behind [OjoCentauri](https://github.com/jordi
 
 - **[GranSabio LLM](https://github.com/jordicor/GranSabio)** (open-source, MIT): Multi-layer QA orchestration engine for AI-generated content. Pipeline: preflight validation, content generation, parallel multi-model evaluation, consensus engine, deal-breaker detection, and final "Gran Sabio" arbitration (premium reasoning model as judge). 950+ automated tests, 200+ models benchmarked, JSON Schema structured outputs, lexical diversity scoring (MTLD, HD-D, Yule's K), confabulation detection. 96K+ lines of Python.
 
-- **[SparkAI](https://github.com/jordicor/SparkAI)** (open-source, MIT): Production AI SaaS platform. Four business modes (aggregator, enterprise, white-label, freelancer marketplace). Six AI providers (OpenAI, Anthropic, Google, xAI, OpenRouter, ElevenLabs). Dual watchdog supervision: pre-response blocking plus post-response monitoring with 4-level escalation. Stripe Connect marketplace. Real-time voice calls via ElevenLabs and Twilio. 135K+ lines.
+- **[Aurvek](https://github.com/jordicor/Aurvek)** (open-source, MIT): Production AI SaaS platform. Four business modes (aggregator, enterprise, white-label, freelancer marketplace). Six AI providers (OpenAI, Anthropic, Google, xAI, OpenRouter, ElevenLabs). Dual watchdog supervision: pre-response blocking plus post-response monitoring with 4-level escalation. Stripe Connect marketplace. Real-time voice calls via ElevenLabs and Twilio. 135K+ lines.
 
 - **Axiotheon**: Proprietary narrative coherence engine.
 
@@ -78,8 +78,8 @@ For the full story: [acerting.com](https://acerting.com)
 
 ## Connecting the dots
 
-- [CwT-ScripT](https://github.com/jordicor/CwT-ScripT) (IRC chat scripting, 2001) → [SparkAI](https://github.com/jordicor/SparkAI) (AI chat platform, 2024): 23 years of real-time messaging systems.
-- [security-research-archive](https://github.com/jordicor/security-research-archive) (CVE researcher, 2004) → SparkAI's dual watchdog (AI safety system, 2024): adversarial thinking, different targets.
+- [CwT-ScripT](https://github.com/jordicor/CwT-ScripT) (IRC chat scripting, 2001) → [Aurvek](https://github.com/jordicor/Aurvek) (AI chat platform, 2024): 23 years of real-time messaging systems.
+- [security-research-archive](https://github.com/jordicor/security-research-archive) (CVE researcher, 2004) → Aurvek's dual watchdog (AI safety system, 2024): adversarial thinking, different targets.
 - [HITS](https://github.com/jordicor/HITS) (DOS fighting game, 2000) → sponsoring professional Tekken players (2022): the loop closes after 22 years.
 
 Each era built on the previous one. Nothing was wasted.
