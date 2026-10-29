@@ -18,7 +18,7 @@ For the full personal story: [jordicor.com](https://jordicor.com)
 
 I'm the solo founder and developer behind [OjoCentauri](https://github.com/jordicor), the AI division of Acerting Art Inc. (Florida). All code is mine, built from scratch.
 
-- **[GranSabio LLM](https://github.com/jordicor/GranSabio)** (open-source, MIT): Multi-layer QA orchestration engine for AI-generated content. Pipeline: preflight validation, content generation, parallel multi-model evaluation, consensus engine, deal-breaker detection, and final "Gran Sabio" arbitration (premium reasoning model as judge). 950+ automated tests, 200+ models benchmarked, JSON Schema structured outputs, lexical diversity scoring (MTLD, HD-D, Yule's K), confabulation detection. 96K+ lines of Python.
+- **[GranSabio LLM](https://github.com/jordicor/GranSabio_LLM)** (open-source, MIT): Multi-layer QA orchestration engine for AI-generated content. Pipeline: preflight validation, content generation, parallel multi-model evaluation, consensus engine, deal-breaker detection, and final "Gran Sabio" arbitration (premium reasoning model as judge). 950+ automated tests, 200+ models benchmarked, JSON Schema structured outputs, lexical diversity scoring (MTLD, HD-D, Yule's K), confabulation detection. 96K+ lines of Python.
 
 - **[Aurvek](https://github.com/jordicor/Aurvek)** (open-source, MIT): Production AI SaaS platform. Four business modes (aggregator, enterprise, white-label, freelancer marketplace). Six AI providers (OpenAI, Anthropic, Google, xAI, OpenRouter, ElevenLabs). Dual watchdog supervision: pre-response blocking plus post-response monitoring with 4-level escalation. Stripe Connect marketplace. Real-time voice calls via ElevenLabs and Twilio. 135K+ lines.
 
@@ -28,7 +28,7 @@ I'm the solo founder and developer behind [OjoCentauri](https://github.com/jordi
 
 - **[ai-json-cleanroom](https://github.com/jordicor/ai-json-cleanroom)** (open-source, MIT): Zero-dependency JSON extraction and repair for malformed AI outputs. Truncation detection, JSON Schema validation. Python + PHP editions.
 
-Total across all projects: 537K+ lines of code across 1,046 source files. 19 public repositories.
+Total across all projects: 537K+ lines of code across 1,046 source files. 25 public repositories.
 
 ## The long road here
 
@@ -54,9 +54,9 @@ YouTube Data API tooling, Flask, multi-language video metadata automation, compu
 
 In 2019 I commissioned a custom VR relaxation experience: [Acerting Art VR Relaxation Space Room](https://jordicor.itch.io/acerting-art-vr-relaxation-space-room). A sci-fi space hotel room orbiting planets with real-time solar system travel (14-day route), embedded YouTube player for Acerting Art content, music player, PDF reader, and Alexa voice control. Built in Unity, cross-platform VR (Oculus Rift, HTC Vive, WMR via SteamVR). Total investment around 5,500 EUR including 3D design and Unity assets. I connected with the developer through Blair Renaud (creator of the cyberpunk VR game LOW-FI) after backing his Kickstarter. I'm considering open-sourcing the Unity code.
 
-**2024–present: AI systems**
+**2023–present: AI systems**
 
-FastAPI, WebSocket/SSE streaming, multi-provider LLM orchestration, Stripe Connect marketplace economics, ElevenLabs voice synthesis, Twilio telephony, NIST-validated cryptography. [santa-claus-is-calling](https://github.com/jordicor/santa-claus-is-calling): real-time AI phone calls where Santa calls children (Twilio + Deepgram + LLM + ElevenLabs, 4-service audio orchestration). [webcam-trng](https://github.com/jordicor/webcam-trng): true random number generator inspired by Cloudflare's LavaRand, validated with NIST SP800-90B (0.8487 bits/bit minimum entropy).
+FastAPI, WebSocket/SSE streaming, multi-provider LLM orchestration, Stripe Connect marketplace economics, ElevenLabs voice synthesis, Twilio telephony, NIST-validated cryptography. [austin-ai-phone-secretary](https://github.com/jordicor/austin-ai-phone-secretary): the AI phone secretary I built in 2023, a few months after ChatGPT came out. It screened my calls, put callers on hold, phoned me to ask whether I wanted to take them, and transferred or rejected the call (Twilio + Deepgram + ElevenLabs + GPT-4 function calling). [santa-claus-is-calling](https://github.com/jordicor/santa-claus-is-calling): real-time AI phone calls where Santa calls children (Twilio + Deepgram + LLM + ElevenLabs, 4-service audio orchestration). [webcam-trng](https://github.com/jordicor/webcam-trng): true random number generator inspired by Cloudflare's LavaRand, validated with NIST SP800-90B (0.8487 bits/bit minimum entropy).
 
 ## The other half
 
